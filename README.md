@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Meu nome é Victor Ferreira, Desenvolvedor Full-Stack</p>
+<p align="left">Meu nome é Victor Ferreira, Desenvolvedor Full-Stack</p>
 
 ###
 
@@ -35,9 +35,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/victor-fmd/victor-fmd/output/snake.svg" alt="Snake animation" />
 
 ###
